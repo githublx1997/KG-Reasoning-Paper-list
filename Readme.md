@@ -7,7 +7,8 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 ## Contents 
 * [Survey](#Survey)
 * [Embedding-based Reasoning](#Embedding-based-Reasoning)
-* [Number of samples](#Number-of-samples)
+* [Path-based Reasoning](#Path-based-Reasoning)
+* Number of samples
   * [Few-shot learning](#Few-shot-learning)
   * [Meta learning](#Meta-learning)
 * [Knowledge evolution and dynamic reasoning](#Knowledge-evolution-and-dynamic-reasoning)
