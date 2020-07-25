@@ -23,7 +23,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 [1.A Survey on Knowledge Graphs：Representation，Acquisition and Applications. ---  AAAI 2020](https://arxiv.org/pdf/2002.00388.pdf) <br>
 
 ### Embedding-based Reasoning
-
+[1.Improving Knowledge Graph Embedding Using Simple Constraints. --- ACL 2018](https://www.aclweb.org/anthology/P18-1011.pdf) <br>
 
 ### Path-based Reasoning 
 [1.DeepPath：A Reinforcement Learning Method for Knowledge Graph Reasoning. --- EMNLP 2017](https://arxiv.org/abs/1707.06690) <br>
