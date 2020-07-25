@@ -1,16 +1,18 @@
 # Top-conference Papers on Knowledge Graph Reasoning
 <br>
-There are some papers of knowledge graph reasoning that I've found , and I will continue to add here.
+There are some papers and surveys of knowledge graph reasoning that I've found and read, and I will continue to add here. 
 <br>
 <br>
 
 ## Contents 
 * [Survey](#Survey)
-* [Embedding-based Reasoning](#Embedding)
-* [Path-based Reasoning](#Path)
-* [Rule-based Reasoning](#Rule)
-* [Dynamic](#Dynamic)
-* [Deep-Learning](#Deep)
+* [Number of samples](#Samples)
+  * [Few-shot learning](#Samples)
+  * [Meta learning](#Samples)
+* [Knowledge evolution and dynamic reasoning](#Dynamic)
+* [Graph neural network](#Graph)
+* [Deep-Learning](#DeepLearning)
+* [Interpretability of Knowledge Reasoning](#Interpretability)
 
 
 
@@ -24,14 +26,16 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 
 ### Path-based Reasoning 
+#### Few-shot learning
 
 
-### Rule-based Reasoning
+#### Meta learning
 
 
-### Dynamic
+### Graph neural network
 
 
 ### Deep Learning
 
 
+### Interpretability of Knowledge Reasoning
