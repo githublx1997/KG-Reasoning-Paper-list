@@ -35,10 +35,10 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 
 ### Knowledge evolution and dynamic reasoning
-[1.Reasoning on Knowledge Graphs with Debate Dynamics. --- AAAI 2020](https://arxiv.org/pdf/2001.00461.pdf)[code](https://github.com/m-hildebrandt/R2D2) <br> 
+[1.Reasoning on Knowledge Graphs with Debate Dynamics. --- AAAI 2020](https://arxiv.org/pdf/2001.00461.pdf) [[code]](https://github.com/m-hildebrandt/R2D2) <br> 
 
 ### Graph neural network
-
+[1.Graph Neural Networks with Generated Parameters for Relation Extraction. --- ACL 2019](https://www.aclweb.org/anthology/P19-1128.pdf) <br>
 
 ### Deep Learning
 
