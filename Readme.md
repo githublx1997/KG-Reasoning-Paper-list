@@ -6,7 +6,7 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 ## Contents 
 * [Survey](#Survey)
-* [Knowledge Graph Completition](#Knowledge Graph Completition)
+* [Knowledge Graph Completition]
   * [Embedding-based Ranking](#Embedding-based Ranking)
   * [Path-based Reasoning](#Path-based Reasoning)
   * [Rule-based Reasoning](#Rule-based Reasoning)
