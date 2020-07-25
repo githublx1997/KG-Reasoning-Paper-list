@@ -20,15 +20,15 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 
 ### Survey
-[A Survey on Knowledge Graphs：Representation，Acquisition and Applications  ---  AAAI 2020](https://arxiv.org/pdf/2002.00388.pdf)
+[A Survey on Knowledge Graphs：Representation，Acquisition and Applications. ---  AAAI 2020](https://arxiv.org/pdf/2002.00388.pdf)
 
 ### Embedding-based Reasoning
 
 
 ### Path-based Reasoning 
 #### Few-shot learning
-
-
+[Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. ---  AAAI 2019](https://gaotianyu1350.github.io/assets/aaai2019_hatt_paper.pdf)
+[One-Shot Relational Learning for Knowledge Graphs. ---EMNLP 2018](https://arxiv.org/pdf/1808.09040.pdf)
 #### Meta learning
 
 
