@@ -14,9 +14,9 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 
 
-### <a name="Survey"></a>  
+### Survey
 <br>
-[A Survey on Knowledge Graphs:Representation,Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)  <br>
+* [A Survey on Knowledge Graphs:Representation,Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)  <br>
 
 
 
