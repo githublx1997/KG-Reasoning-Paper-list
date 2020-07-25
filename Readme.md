@@ -27,7 +27,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 ### Path-based Reasoning 
 #### Few-shot learning
-[1.Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. ---  AAAI 2019](https://gaotianyu1350.github.io/assets/aaai2019_hatt_paper.pdf)
+[1.Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. ---  AAAI 2019](https://gaotianyu1350.github.io/assets/aaai2019_hatt_paper.pdf)<br>
 [2.One-Shot Relational Learning for Knowledge Graphs. ---EMNLP 2018](https://arxiv.org/pdf/1808.09040.pdf)
 #### Meta learning
 
