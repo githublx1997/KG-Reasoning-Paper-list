@@ -6,11 +6,11 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 ## Contents 
 * [Survey](#Survey)
-* [Embedding](#Embedding)
-* [Path](#Path)
-* [Rule](#Rule)
+* [Embedding-based Reasoning](#Embedding)
+* [Path-based Reasoning](#Path)
+* [Rule-based Reasoning](#Rule)
 * [Dynamic](#Dynamic)
-* [Deep Learning](#Deep Learning)
+* [Deep-Learning](#Deep)
 
 
 
@@ -20,13 +20,13 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 ### Survey
 [A Survey on Knowledge Graphs：Representation，Acquisition and Applications  ---  AAAI 2020](https://arxiv.org/pdf/2002.00388.pdf)
 
-### Embedding
+### Embedding-based Reasoning
 
 
-### Path 
+### Path-based Reasoning 
 
 
-### Rule
+### Rule-based Reasoning
 
 
 ### Dynamic
