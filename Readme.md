@@ -3,8 +3,10 @@
 There are some papers of knowledge graph reasoning that I've found , and I will continue to add here.
 <br>
 <br>
-## Contents <br>
-* [背景介绍](#背景介绍) <br>
+
+## Contents 
+<br>
+* 背景介绍 <br>
 * [Knowledge Graph](#Knowledge Graph)<br>
  * [Survey](#Survey)<br>
 
