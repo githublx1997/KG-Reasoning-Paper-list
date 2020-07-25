@@ -6,8 +6,9 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 ## Contents 
 * [Survey](#Survey)
-* [Embedding-based Ranking](#Embedding-based Ranking)
-* [Path-based Reasoning](#Path-based Reasoning)
+* [Embedding](#Embedding)
+* [Path based Reasoning](#Path based Reasoning)
+
 * [Rule-based Reasoning](#Rule-based Reasoning)
 * [Meta Relational Learning](#Meta Relational Learning)
 * [Triple Classification](#Triple Classification)
@@ -19,16 +20,23 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 
 ### Survey
-[A Survey on Knowledge Graphs：Representation，Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)
+[A Survey on Knowledge Graphs：Representation，Acquisition and Applications  ---  AAAI 2020](https://arxiv.org/pdf/2002.00388.pdf)
 
-### Embedding-based Ranking
+### Embedding
 
-### Path-based Reasoning
+
+### Path based Reasoning
+
 
 ### Rule-based Reasoning
 
+
 ### Meta Relational Learning
+
 
 ### Triple Classification
 
+
 ### Deep Learning
+
+
