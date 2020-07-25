@@ -6,11 +6,11 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 ## Contents 
 * [Survey](#Survey)
-* [Number of samples](#Samples)
+* [Number_of_samples](#Samples)
   * [Few-shot learning](#Samples)
   * [Meta learning](#Samples)
 * [Knowledge evolution and dynamic reasoning](#Dynamic)
-* [Graph neural network](#Graphneuralnetwork)
+* [Graph neural network](#Graph-neural-network)
 * [Deep-Learning](#DeepLearning)
 * [Interpretability of Knowledge Reasoning](#Interpretability)
 
