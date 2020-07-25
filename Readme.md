@@ -7,11 +7,9 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 ## Contents 
 * [Survey](#Survey)
 * [Embedding](#Embedding)
-* [Path based Reasoning](#Path based Reasoning)
-
-* [Rule-based Reasoning](#Rule-based Reasoning)
-* [Meta Relational Learning](#Meta Relational Learning)
-* [Triple Classification](#Triple Classification)
+* [Path](#Path)
+* [Rule](#Rule)
+* [Dynamic](#Dynamic)
 * [Deep Learning](#Deep Learning)
 
 
@@ -25,16 +23,13 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 ### Embedding
 
 
-### Path based Reasoning
+### Path 
 
 
-### Rule-based Reasoning
+### Rule
 
 
-### Meta Relational Learning
-
-
-### Triple Classification
+### Dynamic
 
 
 ### Deep Learning
