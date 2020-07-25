@@ -4,8 +4,9 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 <br>
 <br>
 ## Contents <br>
-* [Knowledge Graph](# Knowledge Graph)
-  * [Survey](# Survey)
+* [背景介绍](#背景介绍) <br>
+* [Knowledge Graph](#Knowledge Graph)<br>
+ * [Survey](#Survey)<br>
 
 
 
@@ -14,7 +15,7 @@ There are some papers of knowledge graph reasoning that I've found , and I will 
 
 
 ### Survey <br>
-[A Survey on Knowledge Graphs:Representation,Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)  
+[A Survey on Knowledge Graphs:Representation,Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf)  <br>
 
 
 
