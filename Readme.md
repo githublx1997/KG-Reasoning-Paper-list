@@ -28,14 +28,15 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 [1.Improving Knowledge Graph Embedding Using Simple Constraints. --- ACL 2018](https://www.aclweb.org/anthology/P18-1011.pdf) <br>
 
 ### Path-based Reasoning 
-[1.DeepPath：A Reinforcement Learning Method for Knowledge Graph Reasoning. --- EMNLP 2017](https://arxiv.org/abs/1707.06690) <br>
+[1.Representation Learning with Ordered Relation Paths for Knowledge Graph Completion. --- EMNLP 2019](https://arxiv.org/pdf/1909.11864) <br>
+[2.DeepPath：A Reinforcement Learning Method for Knowledge Graph Reasoning. --- EMNLP 2017](https://arxiv.org/abs/1707.06690) <br>
 ### Number of samples
 #### Few-shot learning
 [1.Few-Shot Knowledge Graph Completion. ---AAAI 2020](https://arxiv.org/pdf/1911.11298.pdf) <br>
 [2.Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification. ---  AAAI 2019](https://gaotianyu1350.github.io/assets/aaai2019_hatt_paper.pdf) <br>
 [3.One-Shot Relational Learning for Knowledge Graphs. ---EMNLP 2018](https://arxiv.org/pdf/1808.09040.pdf) <br>
 #### Meta learning
-
+[1.Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations. ---EMNLP 2019](https://arxiv.org/pdf/1908.11513) [[code]](https://github.com/THU-KEG/MetaKGR) <br>
 
 ### Knowledge evolution and dynamic reasoning
 [1.Reasoning on Knowledge Graphs with Debate Dynamics. --- AAAI 2020](https://arxiv.org/pdf/2001.00461.pdf) [[code]](https://github.com/m-hildebrandt/R2D2) <br> 
@@ -45,7 +46,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 [1.Graph Neural Networks with Generated Parameters for Relation Extraction. --- ACL 2019](https://www.aclweb.org/anthology/P19-1128.pdf) <br>
 
 ### Deep Learning
-
+[1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. ---EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
 
 ### Interpretability of Knowledge Reasoning
 [1.OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs --- ACL 2019](https://www.aclweb.org/anthology/P19-1081.pdf) [[code]](https://github.com/facebookresearch/opendialkg) <br>
