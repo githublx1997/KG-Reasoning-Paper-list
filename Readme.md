@@ -46,7 +46,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 [1.Graph Neural Networks with Generated Parameters for Relation Extraction. --- ACL 2019](https://www.aclweb.org/anthology/P19-1128.pdf) <br>
 
 ### Deep Learning
-[1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. ---EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
+[1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. --- EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
 
 ### Interpretability of Knowledge Reasoning
 [1.OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs --- ACL 2019](https://www.aclweb.org/anthology/P19-1081.pdf) [[code]](https://github.com/facebookresearch/opendialkg) <br>
