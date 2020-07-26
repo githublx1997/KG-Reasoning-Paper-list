@@ -47,3 +47,5 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 
 ### Interpretability of Knowledge Reasoning
+[1.Explainable Recommendation via Multi-Task Learning in Opinionated Text Data. --- SIGIR 2018](https://dl.acm.org/citation.cfm?id=3210010) <br>
+[2.OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs --- ACL 2019](https://www.aclweb.org/anthology/P19-1081.pdf)[[code]](https://github.com/facebookresearch/opendialkg) <br>
