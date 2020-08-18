@@ -44,6 +44,8 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 ### Graph neural network
 [1.Graph Neural Networks with Generated Parameters for Relation Extraction. --- ACL 2019](https://www.aclweb.org/anthology/P19-1128.pdf) <br>
+[2.Dynamically Fuesed Graph Network for Multi-hop Reasoning. --- ACL 2019](https://arxiv.org/abs/1905.06933) <br>
+[3.Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning. --- ICLR 2020 ](https://openreview.net/forum?id=rkeuAhVKvB) [[code]](https://github.com/anonymousauthor123/DPMPN)<br>
 
 ### Deep Learning
 [1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. --- EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
