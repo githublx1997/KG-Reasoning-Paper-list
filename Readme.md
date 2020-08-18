@@ -26,6 +26,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 ### Embedding-based Reasoning
 [1.Improving Knowledge Graph Embedding Using Simple Constraints. --- ACL 2018](https://www.aclweb.org/anthology/P18-1011.pdf) <br>
+[2.An Improved Neural Baseline for Temporal Relation Extraction. --- EMNLP 2019](https://arxiv.org/abs/1909.00429) <br>
 
 ### Path-based Reasoning 
 [1.Representation Learning with Ordered Relation Paths for Knowledge Graph Completion. --- EMNLP 2019](https://arxiv.org/pdf/1909.11864) <br>
@@ -45,7 +46,9 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 ### Graph neural network
 [1.Graph Neural Networks with Generated Parameters for Relation Extraction. --- ACL 2019](https://www.aclweb.org/anthology/P19-1128.pdf) <br>
 [2.Dynamically Fuesed Graph Network for Multi-hop Reasoning. --- ACL 2019](https://arxiv.org/abs/1905.06933) <br>
-[3.Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning. --- ICLR 2020 ](https://openreview.net/forum?id=rkeuAhVKvB) [[code]](https://github.com/anonymousauthor123/DPMPN)<br>
+[3.Gated Residual Recurrent Graph Neural Networks for Traffic Prediction. --- AAAI 2019](https://xueshu.baidu.com/usercenter/paper/show?paperid=1n4a0080yw480jy044040jk009183179) <br>
+[4.Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning. --- ICLR 2020 ](https://openreview.net/forum?id=rkeuAhVKvB) [[code]](https://github.com/anonymousauthor123/DPMPN)<br>
+
 
 ### Deep Learning
 [1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. --- EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
