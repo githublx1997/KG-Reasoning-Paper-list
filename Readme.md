@@ -48,6 +48,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 [2.Dynamically Fuesed Graph Network for Multi-hop Reasoning. --- ACL 2019](https://arxiv.org/abs/1905.06933) <br>
 [3.Gated Residual Recurrent Graph Neural Networks for Traffic Prediction. --- AAAI 2019](https://xueshu.baidu.com/usercenter/paper/show?paperid=1n4a0080yw480jy044040jk009183179) <br>
 [4.Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning. --- ICLR 2020 ](https://openreview.net/forum?id=rkeuAhVKvB) [[code]](https://github.com/anonymousauthor123/DPMPN)<br>
+[5.Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation. --- AAAI 2020 ](https://arxiv.org/abs/1911.08936) [[code]](https://github.com/nju-websoft/AliNet)
 
 
 ### Deep Learning
