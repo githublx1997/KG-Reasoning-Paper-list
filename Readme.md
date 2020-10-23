@@ -52,7 +52,7 @@ There are some papers and surveys of knowledge graph reasoning that I've found a
 
 ### Deep Learning
 [1.Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. --- EMNLP 2019](https://www.aclweb.org/anthology/D19-1264.pdf) <br>
-[2.Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs. --- ACL 2019](https://arxiv.org/abs/1906.01195v1) [[code]] (https://link.zhihu.com/?target=https%3A//github.com/deepakn97/relationPrediction)<br>
+[2.Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs. --- ACL 2019](https://arxiv.org/abs/1906.01195v1) [[code]](https://link.zhihu.com/?target=https%3A//github.com/deepakn97/relationPrediction)<br>
 
 ### Interpretability of Knowledge Reasoning
 [1.OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs --- ACL 2019](https://www.aclweb.org/anthology/P19-1081.pdf) [[code]](https://github.com/facebookresearch/opendialkg) <br>
